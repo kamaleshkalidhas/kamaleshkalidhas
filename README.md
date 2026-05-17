@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Kamalesh K 👋
 
-<!--
-**kamaleshkalidhas/kamaleshkalidhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### React Native Developer | 3.5+ Years | Android & iOS
 
-Here are some ideas to get you started:
+🔧 **Skills:** React Native CLI, Redux, Firebase FCM,
+   Google Maps, Razorpay/Cahsfree, SQLite, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 **Published:** 5+ apps on Play Store & App Store
+
+🌍 **Open to:** Remote roles & Relocation across India
+
+📫 **Contact:** kamaleshkalidhas@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kamalesh-kalidhas-783002292/)
